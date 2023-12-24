@@ -2,8 +2,7 @@ plugins {
     id 'com.android.application'
     id 'org.jetbrains.kotlin.android'
 }
-
-apply from: '../autodimension.gradle'
+apply from: file( '../autodimension.gradle')
 
 android {
     namespace 'lanltn.com.note_app'
