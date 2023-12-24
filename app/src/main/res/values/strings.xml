@@ -1,3 +1,16 @@
 <resources>
-    <string name="app_name">android_note_app</string>
+    <string name="app_name">Note App</string>
+    <string name="welcome_back">Welcome\nback</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="confirm_password">Confirm password</string>
+    <string name="login">Login</string>
+    <string name="no_have_an_account">Don’t have an account? Sign up</string>
+    <string name="already_have_an_account">Already have an account? Sign in</string>
+    <string name="sign_up">Sign up</string>
+    <string name="create_an_account">Create account</string>
+    <string name="all_notes">All Notes</string>
+    <string name="add_notes">Add notes</string>
+    <string name="no_note_found">No notes found</string>
+    <string name="description_empty_note">When you add a notes. You will see your notes here</string>
 </resources>
