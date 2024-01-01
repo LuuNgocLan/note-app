@@ -3,6 +3,7 @@
     <color name="purple_200">#7885FF</color>
     <color name="gray_200">#FFF3F7F9</color>
     <color name="gray_300">#FF6C7E8E</color>
+    <color name="gray_500">#4F4F4F</color>
     <color name="gray_700">#FF303030</color>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
